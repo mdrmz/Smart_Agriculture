@@ -52,7 +52,7 @@ The goal of this project is to assist farmers and agricultural stakeholders in o
 
 To install the dependencies, run:
 Gereksinimleri yüklemek için:
-
+```
 ```bash
 gh repo clone mdrmz/Smart_Agriculture
 cd Smart_Agriculture
